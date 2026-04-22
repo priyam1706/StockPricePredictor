@@ -1,4 +1,3 @@
-# StockPricePredictor
 # Stock Price Predictor
 
 A deep learning project that forecasts stock closing prices using a GRU (Gated Recurrent Unit) neural network built with PyTorch. Includes time-series analysis, model training, and an interactive Streamlit dashboard for visualization.
